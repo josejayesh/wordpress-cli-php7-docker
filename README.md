@@ -5,4 +5,5 @@ This docker image helps wordpress developers to execute WP CLI commands directly
  - PHP 7.0  
  - Apache 
  - WP CLI
+ - Multisite
 
